@@ -2,6 +2,12 @@
 #
 .DS_Store
 
+# API_KEY
+api_keys.xml
+
+# vscode
+.vscode/
+
 # Xcode
 #
 build/
